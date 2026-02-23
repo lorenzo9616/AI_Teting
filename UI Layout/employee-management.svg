@@ -1,0 +1,32 @@
+<svg width="1000" height="700" viewBox="0 0 1000 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="700" fill="#F8F9FA"/>
+  
+  <rect x="50" y="50" width="900" height="600" rx="8" fill="white" style="filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.05));"/>
+  <text x="80" y="100" font-family="Arial" font-size="24" font-weight="bold" fill="#333">Employee Management</text>
+  
+  <rect x="820" y="75" width="130" height="40" rx="4" fill="#FF4D4D"/>
+  <text x="885" y="100" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">+ Add Employee</text>
+  
+  <!-- Table Header -->
+  <rect x="80" y="140" width="840" height="45" fill="#FAFAFA" stroke="#EEE"/>
+  <text x="100" y="168" font-family="Arial" font-size="14" font-weight="bold" fill="#666">Name</text>
+  <text x="300" y="168" font-family="Arial" font-size="14" font-weight="bold" fill="#666">Role</text>
+  <text x="500" y="168" font-family="Arial" font-size="14" font-weight="bold" fill="#666">Area</text>
+  <text x="700" y="168" font-family="Arial" font-size="14" font-weight="bold" fill="#666">Status</text>
+  
+  <!-- Row 1 -->
+  <line x1="80" y1="230" x2="920" y2="230" stroke="#EEE"/>
+  <text x="100" y="212" font-family="Arial" font-size="14" fill="#333">Chef Gordon</text>
+  <text x="300" y="212" font-family="Arial" font-size="14" fill="#333">Head Chef</text>
+  <text x="500" y="212" font-family="Arial" font-size="14" fill="#333">Kitchen</text>
+  <rect x="700" y="195" width="80" height="24" rx="12" fill="#E6FFFA"/>
+  <text x="740" y="212" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#38B2AC">Active</text>
+  
+  <!-- Row 2 -->
+  <line x1="80" y1="280" x2="920" y2="280" stroke="#EEE"/>
+  <text x="100" y="262" font-family="Arial" font-size="14" fill="#333">Jane Doe</text>
+  <text x="300" y="262" font-family="Arial" font-size="14" fill="#333">Server</text>
+  <text x="500" y="262" font-family="Arial" font-size="14" fill="#333">Front of House</text>
+  <rect x="700" y="245" width="80" height="24" rx="12" fill="#FFF5F5"/>
+  <text x="740" y="262" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#FF4D4D">Off-Duty</text>
+</svg>

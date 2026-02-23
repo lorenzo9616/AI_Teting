@@ -1,0 +1,24 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#F8F9FA"/>
+  <rect x="50" y="50" width="700" height="300" rx="8" fill="white" style="filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.05));"/>
+  <text x="80" y="90" font-family="Arial" font-size="20" font-weight="bold" fill="#333">Set Availability</text>
+  
+  <g transform="translate(80, 130)">
+    <!-- Weekdays -->
+    <rect x="0" y="0" width="80" height="80" rx="4" fill="#E6FFFA" stroke="#38B2AC"/>
+    <text x="40" y="35" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#38B2AC">MON</text>
+    <text x="40" y="55" text-anchor="middle" font-family="Arial" font-size="10" fill="#38B2AC">Available</text>
+    
+    <rect x="100" y="0" width="80" height="80" rx="4" fill="#E6FFFA" stroke="#38B2AC"/>
+    <text x="140" y="35" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#38B2AC">TUE</text>
+    
+    <rect x="200" y="0" width="80" height="80" rx="4" fill="#FFF5F5" stroke="#FF4D4D"/>
+    <text x="240" y="35" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#FF4D4D">WED</text>
+    <text x="240" y="55" text-anchor="middle" font-family="Arial" font-size="10" fill="#FF4D4D">Busy</text>
+    
+    <rect x="300" y="0" width="80" height="80" rx="4" fill="#E6FFFA" stroke="#38B2AC"/>
+    <text x="340" y="35" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#38B2AC">THU</text>
+  </g>
+  
+  <text x="80" y="270" font-family="Arial" font-size="12" fill="#666">* Click a day to toggle your general availability for the season.</text>
+</svg>

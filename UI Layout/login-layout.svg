@@ -1,0 +1,22 @@
+<svg width="1000" height="600" viewBox="0 0 1000 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="600" fill="#F8F9FA"/>
+  
+  <!-- Login Card -->
+  <rect x="340" y="100" width="320" height="400" rx="8" fill="white" stroke="#E1E4E8" stroke-width="1"/>
+  <rect x="340" y="100" width="320" height="400" rx="8" fill="white" style="filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1));"/>
+  
+  <text x="500" y="160" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#FF4D4D">Restaurant Login</text>
+  
+  <!-- Form Fields -->
+  <text x="370" y="210" font-family="Arial" font-size="14" fill="#666">Email</text>
+  <rect x="370" y="220" width="260" height="35" rx="4" fill="white" stroke="#DDD"/>
+  
+  <text x="370" y="285" font-family="Arial" font-size="14" fill="#666">Password</text>
+  <rect x="370" y="295" width="260" height="35" rx="4" fill="white" stroke="#DDD"/>
+  
+  <!-- Button -->
+  <rect x="370" y="360" width="260" height="40" rx="4" fill="#FF4D4D"/>
+  <text x="500" y="385" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="white">Login</text>
+  
+  <text x="500" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#999">Forgot Password?</text>
+</svg>

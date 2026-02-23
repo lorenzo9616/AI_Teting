@@ -1,0 +1,21 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#F8F9FA"/>
+  
+  <rect x="50" y="50" width="700" height="400" rx="8" fill="white" style="filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.05));"/>
+  <text x="80" y="90" font-family="Arial" font-size="20" font-weight="bold" fill="#333">Time Off Requests</text>
+  
+  <!-- Request Card 1 -->
+  <rect x="80" y="130" width="640" height="80" rx="4" stroke="#EEE" stroke-width="1"/>
+  <text x="100" y="160" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Jane Doe</text>
+  <text x="100" y="185" font-family="Arial" font-size="12" fill="#666">March 15, 2026 - Personal Reason</text>
+  <rect x="520" y="155" width="80" height="30" rx="4" fill="#FFF5F5"/>
+  <text x="560" y="175" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#FF4D4D">Reject</text>
+  <rect x="610" y="155" width="80" height="30" rx="4" fill="#E6FFFA"/>
+  <text x="650" y="175" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#38B2AC">Approve</text>
+  
+  <!-- Request Card 2 -->
+  <rect x="80" y="230" width="640" height="80" rx="4" fill="#FAFAFA" stroke="#EEE" stroke-width="1"/>
+  <text x="100" y="260" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Gordon Ramsay</text>
+  <text x="100" y="285" font-family="Arial" font-size="12" fill="#666">March 18, 2026 - Vacation</text>
+  <text x="600" y="275" font-family="Arial" font-size="14" font-weight="bold" fill="#38B2AC">Approved ✓</text>
+</svg>

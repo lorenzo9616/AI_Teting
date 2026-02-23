@@ -1,0 +1,39 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F8F9FA"/>
+  
+  <!-- Header -->
+  <rect width="1200" height="70" fill="white" style="filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.05));"/>
+  <text x="30" y="43" font-family="Arial" font-size="22" font-weight="bold" fill="#FF4D4D">Scheduling App</text>
+  <rect x="1050" y="15" width="120" height="40" rx="4" fill="#F8DADA"/>
+  <text x="1110" y="40" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#FF4D4D">Logout</text>
+  
+  <!-- Sidebar -->
+  <rect x="30" y="100" width="220" height="300" rx="8" fill="white" style="filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.05));"/>
+  <text x="50" y="140" font-family="Arial" font-size="16" font-weight="bold" fill="#FF4D4D">Dashboard</text>
+  <line x1="50" y1="155" x2="230" y2="155" stroke="#EEE"/>
+  <text x="50" y="185" font-family="Arial" font-size="16" fill="#333">My Shifts</text>
+  <line x1="50" y1="200" x2="230" y2="200" stroke="#EEE"/>
+  <text x="50" y="230" font-family="Arial" font-size="16" fill="#333">Time Off Requests</text>
+  <line x1="50" y1="245" x2="230" y2="245" stroke="#EEE"/>
+  <text x="50" y="275" font-family="Arial" font-size="16" fill="#333">Staff Management</text>
+  
+  <!-- Calendar Container -->
+  <rect x="280" y="100" width="890" height="650" rx="8" fill="white" style="filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.05));"/>
+  <text x="310" y="145" font-family="Arial" font-size="20" font-weight="bold" fill="#333">Weekly Schedule</text>
+  <rect x="1030" y="120" width="110" height="35" rx="4" fill="#FF4D4D"/>
+  <text x="1085" y="142" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">+ Add Shift</text>
+  
+  <!-- Calendar Grid -->
+  <g transform="translate(310, 180)">
+    <!-- Header Row -->
+    <rect width="830" height="40" fill="#FAFAFA" stroke="#EEE"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#666">MON 22</text>
+    <text x="180" y="25" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#666">TUE 23</text>
+    <text x="300" y="25" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#666">WED 24</text>
+    <!-- Shift Example -->
+    <rect x="130" y="60" width="100" height="60" rx="4" fill="#E8F4FD" stroke="#3182CE" stroke-width="1"/>
+    <text x="140" y="80" font-family="Arial" font-size="10" font-weight="bold" fill="#2C5282">John Doe</text>
+    <text x="140" y="95" font-family="Arial" font-size="10" fill="#2C5282">10:00 - 16:00</text>
+    <text x="140" y="110" font-family="Arial" font-size="10" font-style="italic" fill="#2C5282">Kitchen</text>
+  </g>
+</svg>
